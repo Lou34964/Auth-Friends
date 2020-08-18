@@ -1,0 +1,6 @@
+form {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.header:hover, i[class~="icon"]:hover{cursor: pointer}
